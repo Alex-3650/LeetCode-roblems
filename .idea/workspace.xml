@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f452a991-aa3b-42cf-abd2-e6670af287ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PO2RemoveElement27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PO3RemoveDuplicates26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Application.PO1MergeSortedArray88.executor": "Run",
     "Application.PO2RemoveElement27.executor": "Debug",
+    "Application.PO3RemoveDuplicates26.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "SubBranch",
     "kotlin-language-version-configured": "true",
@@ -72,6 +73,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PO3RemoveDuplicates26.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
